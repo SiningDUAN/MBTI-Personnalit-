@@ -1,2 +1,2 @@
 # MBTI-Personnalité
-# Database : https://www.kaggle.com/code/laowingkin/mbti-study-personality
+# Database : https://www.kaggle.com/datasets/datasnaek/mbti-type
